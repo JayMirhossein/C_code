@@ -1,4 +1,5 @@
-// C code to read inoput 
+// C code to read input
+// rev 1 24-Dec-2023
 
 #include <stdio.h>
 
