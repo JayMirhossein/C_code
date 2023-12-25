@@ -3,6 +3,8 @@
 // rev 3 22-Dec-2020
 // rev 4 23-Dec-2021
 // rev 5 23-Dec-2022
+// rev 6 24-Dec-2023
+
 //  ls1.c
 //  UNIX advance Programming , p#4
 //  The Program immitates ls
